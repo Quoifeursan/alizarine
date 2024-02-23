@@ -1,4 +1,0 @@
-Rangement du code
-CSS sur le HTML et dans le fichier style
-CSS = Quand ca concerne plusieurs éléments + Quand il y a beaucoup
-HTML = Quand il y a peu + un seul élément
